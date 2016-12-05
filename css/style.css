@@ -1,8 +1,25 @@
-#board {
-  margin-top: 10px;
+.message{
+  font-family: Lobster;
+  font-size: 80px;
+}
+
+.button{
+    width:80px;
+    margin-left:auto;
+    margin-right:auto;
 }
 
 .box {
   border: 1px solid black;
   height: 150px;
+}
+
+.row{
+  text-align: center;
+}
+
+#board {
+  font-family: Lobster;
+  font-size: 80px;
+  margin-top: 10px;
 }
