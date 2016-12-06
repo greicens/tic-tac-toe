@@ -18,6 +18,20 @@
   text-align: center;
 }
 
+.black-background{
+  background-color: black;
+}
+
+.white{
+  color: white;
+}
+
+.noBorder{
+  border: none;
+}
+
+
+
 #board {
   font-family: Lobster;
   font-size: 80px;
